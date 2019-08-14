@@ -1,0 +1,35 @@
+body {
+          color: rgb(219, 84, 240);
+          background-color: rgb(37, 232, 183);
+          font-family: fantasy;
+}
+
+div {
+          min-height: 1vh;
+          width: 100vw;
+}
+
+h1 {
+          text-align: center;
+}
+h1{
+          font-size: 5em;
+}
+img {
+          display: flex;
+          padding: 10px;
+
+}
+p {
+
+      width: 70%;
+      margin: 2vh 10vw;
+      font-size: 1em;
+}
+a {
+      color: rgb(0,0,0);
+}
+
+li#lowest{
+              color: rgb(255,255,255)
+}
